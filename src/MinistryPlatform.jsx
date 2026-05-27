@@ -375,9 +375,9 @@ function HomeView({ onSelectCategory, t, lang }) {
       <div style={{ textAlign: "center", marginBottom: 40 }}>
         {/* ロゴ画像 */}
         <img
-          src="https://i.imgur.com/placeholder.png"
+          src="/logo.png"
           alt="Red Farm Ministry"
-          style={{ display: "block", margin: "0 auto 14px", height: 90, width: "auto", borderRadius: 12, background: "#fff", padding: "6px 16px" }}
+          style={{ display: "block", margin: "0 auto 14px", height: 60, width: "auto", borderRadius: 12, background: "#fff", padding: "6px 16px" }}
         />
         <h1 style={{
           fontFamily: "'Noto Serif JP', serif",
